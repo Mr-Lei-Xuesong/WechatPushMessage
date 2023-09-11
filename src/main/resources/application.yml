@@ -1,2 +1,15 @@
 server:
   port: 7777
+
+wx:
+  mp:
+    app-id: # 小程序的appid
+    secret: # 小程序的secret
+
+wechat:
+  push:
+    user: # 推送用户的openid
+    template-id: # 模板id
+
+tianxing:
+  api-key: # 天行数据的api-key
